@@ -1,0 +1,21 @@
+.card{
+    text-align:center;
+    display:flex;
+    justify-content: center;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius:1rem;
+    
+}
+.card:hover{
+    box-shadow:0px 0px 30px #10afdbaa;
+}
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .weather-b{
+    border:2px solid rgb(0, 187, 255);
+    border-radius: 1rem;
+    
+  }
